@@ -29,7 +29,6 @@ Marvel — это интерактивное приложение, которо�
   - React Context and useContext
   - High Order Components
   - React Transition Group
-  - Formik library
   - React Helmet
 
 ## Запуск проекта:
